@@ -1,4 +1,0 @@
-Title: Turtle Bloom
-Subject: Abstract
-Description: My program creates a vibrant, abstract flower using turtle graphics. I tell a digital "turtle" to stamp its shape repeatedly, making two concentric rings of colorful imprints on a black background. Each stamp is a different bright color, and they're all rotated to create a symmetrical pattern that looks a bit like a star or a flower.
-Question to my peers: What would happen if I changed the rotation angle from 36 to 30 degrees?
